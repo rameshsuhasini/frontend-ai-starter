@@ -1,0 +1,9 @@
+{
+  "name": "frontend-ai-starter",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Build placeholder — replace with real build command'",
+    "lint": "echo 'Lint placeholder — replace with ESLint'",
+    "test": "echo 'Test placeholder — replace with Jest/Vitest'"
+  }
+}
